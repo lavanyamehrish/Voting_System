@@ -1,6 +1,6 @@
 # Voting System
 
-This project is a blockchain-based voting system developed for a college assignment in Semester 4.
+This project is a blockchain-based voting system.
 
 ## Table of Contents
 - [Introduction](#introduction)
